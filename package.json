@@ -1,0 +1,17 @@
+{
+  "name": "discordbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.1.0",
+    "ts-node": "^10.2.1",
+    "typescript": "^4.4.2"
+  },
+  "compilerOptions": {
+    "esModuleInterop": true
+  }
+}
