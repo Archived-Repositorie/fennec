@@ -1,3 +1,4 @@
+
 const config = {
     token: "",
     "prefix": "#"
