@@ -10,7 +10,7 @@ const pfpAscii = readFileSync("./asciiIcon.ans").toString()
 
 //ctx
 class ctx {
-    constructor //todo
+    client: Client = client
 }
 
 //event handler
